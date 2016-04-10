@@ -38,7 +38,7 @@ $\Rightarrow$ Most widely used algorithms by data scientists
 
 * Response variable has lots of problems with discrete outcomes
 * Error models have to stay interpretable even when the outcome has to be positive
-* Swiss data model demonstrate linear gression with multiple predictors (refer to next slide for the application which show case it)
+* To demonstrate linear gression with multiple predictors - Swiss Data Model (refer to next slide for the application which show case it)
 
 
 ```
@@ -64,5 +64,7 @@ Developed an application to allow one to learn about GLM:
 * To focus on the algorithm
 * Test out with different predictors and compare their effects
 
-<center><img src=./assets/img/main.png height='60%' width='60%' style='margin:0px; border: 2px solid #FF0000'/></center>
+Click on the following link to access the application:
+
+https://brandonhu.shinyapps.io/DevelopingProducts/
 

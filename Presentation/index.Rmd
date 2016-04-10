@@ -59,7 +59,7 @@ Developed an application to allow one to learn about GLM:
 * To focus on the algorithm
 * Test out with different predictors and compare their effects
 
-<center><img src=./assets/img/main.png height='60%' width='60%' style='margin:0px; border: 2px solid #FF0000'/></center>
+Click on the following link to access the application:
 
-<center>https://s-bolz.shinyapps.io/Developing-Data-Products-Assignment/</center>
+https://brandonhu.shinyapps.io/DevelopingProducts/
 
